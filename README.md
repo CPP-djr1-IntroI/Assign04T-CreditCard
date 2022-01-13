@@ -128,17 +128,11 @@ Amount starts in column 37. The transaction name will not be longer than
 
     a.  See Lab01 for producing a pdf of your complete program. Once you
         have produced the pdf of your program and named the pdf your
-        **punetid**, drop the pdf in the Assign04 folder on Moodle.
+        **punetid**, drop the pdf in the Assign03 folder on Moodle.
 
     b.  The pdf must be in the drop folder on Moodle by the time and day
         specified above. Anything submitted after that will be
         considered late.
 
-**IMPORTANT:** This is not a last minute assignment. There is a reason
-you have 12 days to complete this assignment. If you start this
-assignment the weekend before it's due, there is a high likelihood that
-you will not finish. Remember also, the tutors are not going to write
-your code. They will help with a specific issue in your program.
-
 > **Good luck! And remember, if you have any problems, come and see
-> straight away. **
+> straight away.
