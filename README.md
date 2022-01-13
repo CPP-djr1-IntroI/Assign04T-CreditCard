@@ -1,13 +1,14 @@
-## CS150 Assignment 4
+## Intro to C++ I
 
-Credit Card Processing
+**Assign 04 - Credit Card Processing**
 
-**Date assigned:** Wednesday, October 6, 2021
+**Date assigned:** 
 
-**Program due:** Monday, October 18, 2021, \[9:15AM Sect 02; 1:00PM Sect
-01\]
+**Program due:**
 
-**Points**: 35
+**Points:**
+
+**This is an individual assignment.**
 
 **Goals:**
 
